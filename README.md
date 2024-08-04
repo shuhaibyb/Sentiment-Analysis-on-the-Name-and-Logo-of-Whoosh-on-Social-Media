@@ -16,7 +16,7 @@ This repository contains code and data for conducting sentiment analysis on the 
      - **instagram:** This sheet includes data collected from Instagram.
      - **normalisasi:** This sheet contains the normalization dictionary used for preprocessing the text data.
 
-4. **stopwords**
+4. **stopwords.txt**
    - This file contains a list of stopwords used to remove common words that do not contribute significantly to sentiment analysis.
 
 5. **preprocessing_modelling_and_prediction.ipynb**
